@@ -1,0 +1,3 @@
+[submodule "lightfm"]
+	path = lightfm
+	url = https://github.com/shenjiangqiu/lightfm.git
